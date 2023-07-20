@@ -6,13 +6,7 @@ Automate your Instabot with Travis-CI daily builds! For free.
 1. Fork the repo
 2. Go to Travis-CI.org and login with GitHub
 3. Go to settings
-
-![image](https://user-images.githubusercontent.com/5613295/63702442-a47a3000-c82f-11e9-8c21-0666bc01789b.png)
-
 4. Press sync your account
-
-![image](https://user-images.githubusercontent.com/5613295/63702458-ac39d480-c82f-11e9-9b13-9ab7249ce051.png)
-
 5. Find the repo you've just cloned and enable it
 
 ![image](https://user-images.githubusercontent.com/5613295/63702472-b4920f80-c82f-11e9-9f2c-0e0263b0662a.png)
