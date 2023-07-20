@@ -1,4 +1,4 @@
-# instabot-Arthur
+# instabot-travis-ci
 Automate your Instabot with Travis-CI daily builds! For free.
 
 ## Step-by-step
@@ -33,6 +33,5 @@ You need to set `INSTAGRAM_USERNAME` and `INSTAGRAM_PASSWORD` variables.
 
 That's all folks! Happy hacking
 
-----------
-*with love, [morejust](https://morejust.foundation)*
+
 
