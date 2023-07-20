@@ -1,4 +1,4 @@
-# instabot-travis-ci
+# instabot-Arthur
 Automate your Instabot with Travis-CI daily builds! For free.
 
 ## Step-by-step
